@@ -12,5 +12,6 @@
     "libpng",
     "onig",
     "sqlite",
-    "libzip"
+    "libzip",
+    "gmp"
 ]
